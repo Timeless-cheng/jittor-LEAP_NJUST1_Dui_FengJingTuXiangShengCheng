@@ -1,0 +1,1 @@
+python test.py --input_path '../datasets/test' --output_path './results' --batch_size 4
