@@ -1,4 +1,4 @@
-# Jittor 赛题1 - 风景图片生成
+# 第2届Jittor人工智能挑战赛 赛题1 - 风景图片生成（三等奖解决方案8/154）
 ![results](images/results.png)
 
 ## 简介
