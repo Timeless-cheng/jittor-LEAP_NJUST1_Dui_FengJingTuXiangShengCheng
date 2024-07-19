@@ -1,5 +1,5 @@
 # Jittor 赛题1 - 风景图片生成
-![results](images\results.png)
+![results](images/results.png)
 
 ## 简介
 本赛题将会提供1000张测试分割图片，参赛选手需要根据测试图片生成符合标签含义的风景图片。
